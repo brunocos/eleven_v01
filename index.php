@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Eleven</title>
+		<title>Eleven Factoring</title>
 		<link href="imports/css/bootstrap.min.css" rel="stylesheet">
 		<script src="imports/js/jquery-2.2.4.min.js" type="text/javascript"></script>
 		<script src="imports/js/jquery.maskedinput.min.js" type="text/javascript"></script>
